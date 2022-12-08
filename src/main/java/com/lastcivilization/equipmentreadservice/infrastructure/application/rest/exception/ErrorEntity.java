@@ -10,3 +10,4 @@ record ErrorEntity(
         this(message, LocalDateTime.now());
     }
 }
+

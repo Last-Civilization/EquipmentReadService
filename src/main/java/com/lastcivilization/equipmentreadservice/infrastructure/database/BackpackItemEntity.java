@@ -19,3 +19,4 @@ public class BackpackItemEntity {
     @Column(name = "item_id")
     private Long itemId;
 }
+

@@ -19,3 +19,4 @@ public class BeanConfiguration {
         return new EquipmentService(equipmentRepository);
     }
 }
+

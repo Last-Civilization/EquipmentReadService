@@ -5,3 +5,4 @@ public record BackpackItemDto(
         Long itemId
 ) {
 }
+

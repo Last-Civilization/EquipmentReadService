@@ -13,3 +13,4 @@ interface RestMapper {
     EquipmentDto toDto(EquipmentModel equipmentModel);
 
 }
+

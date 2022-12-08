@@ -25,3 +25,4 @@ public class RestExceptionHandler {
         return new ErrorEntity(exception.getMessage());
     }
 }
+

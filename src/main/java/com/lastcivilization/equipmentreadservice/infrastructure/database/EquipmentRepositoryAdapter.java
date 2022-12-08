@@ -28,3 +28,4 @@ class EquipmentRepositoryAdapter implements EquipmentRepository {
         return MAPPER.toDomain(savedEquipmentEntity);
     }
 }
+

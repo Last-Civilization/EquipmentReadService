@@ -28,3 +28,4 @@ public class EquipmentController {
         return MAPPER.toDto(equipmentModel);
     }
 }
+

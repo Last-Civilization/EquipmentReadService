@@ -13,3 +13,4 @@ interface EntityMapper {
     EquipmentModel toDomain(EquipmentEntity equipmentEntity);
     EquipmentEntity toEntity(EquipmentModel equipmentModel);
 }
+

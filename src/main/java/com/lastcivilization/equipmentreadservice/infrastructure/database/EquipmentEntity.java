@@ -29,3 +29,4 @@ public class EquipmentEntity {
     @Builder.Default
     private List<BackpackItemEntity> backpack = new ArrayList<>();
 }
+

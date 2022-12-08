@@ -13,3 +13,4 @@ public record EquipmentDto(
         List<BackpackItemDto> backpack
 ) {
 }
+

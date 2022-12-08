@@ -5,3 +5,4 @@ public record BackpackItemModel(
         Long itemId
 ) {
 }
+

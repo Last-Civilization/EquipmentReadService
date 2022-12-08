@@ -11,3 +11,4 @@ public interface EquipmentRepository {
 
     EquipmentModel save(EquipmentModel equipment);
 }
+

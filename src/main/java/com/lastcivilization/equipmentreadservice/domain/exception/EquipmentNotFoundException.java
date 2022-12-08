@@ -6,3 +6,4 @@ public class EquipmentNotFoundException extends RuntimeException{
         super("Cannot find equipment with id: %d".formatted(id));
     }
 }
+
